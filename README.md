@@ -2,7 +2,7 @@ YouTube Data Harvesting & Warehousing Using SQL
 
 Domain: Social Media
 
-In this project, I developed a comprehensive solution to harvest, store, and analyze YouTube data. Leveraging Python scripting and API integration, I built a user-friendly interface with Streamlit to dynamically display processed data.
+YouTube Data Harvesting and Warehousing is a project aimed at developing a user-friendly Streamlit application that leverages the power of the Google API to extract valuable information from YouTube channels. The extracted data is then migrated to a SQL data warehouse, and made accessible for analysis and exploration within the Streamlit app.
 
 Step-by-Step Process:
 
